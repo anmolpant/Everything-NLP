@@ -1,0 +1,5 @@
+This is third file 
+hello, writing with magic command.
+This is line two.
+#built in magic command
+Appending New Line
