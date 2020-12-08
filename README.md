@@ -5,7 +5,7 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/anmolpant/Everything-NLP?logo=github&style=social)](https://github.com/anmolpant/) [![GitHub last commit](https://img.shields.io/github/last-commit/anmolpant/Everything-NLP?style=social&logo=git)](https://github.com/anmolpant/) [![GitHub stars](https://img.shields.io/github/stars/anmolpant/Everything-NLP?style=social)](https://github.com/anmolpant/Everything-NLP/stargazers) [![GitHub forks](https://img.shields.io/github/forks/anmolpant/Everything-NLP?style=social&logo=git)](https://github.com/anmolpant/Everything-NLP/network)
 
 <p align="center">
-  Repository containing my work for the Coding Ninjas Java 2020 course, including both Introduction to Java and Data Structures & Algorithms with Java tracks. Can be used as a reference by the ones undertaking the course. Code will be pushed after passing all the test cases.
+  Repository containing my work centered around exploring natural language processing as a domain and the various frameworks it uses.
 </p>
 
 <p align="center">
