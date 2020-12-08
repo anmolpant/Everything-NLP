@@ -12,7 +12,7 @@
 <img src="https://github.com/anmolpant/Everything-NLP/blob/master/assets/CNLOGO.svg" alt="NLP"/>
 </p>
 
-![Generic badge](https://img.shields.io/badge/Java-orange)
+![Generic badge](https://img.shields.io/badge/NLP-green)
 
 ## Top Language
 
